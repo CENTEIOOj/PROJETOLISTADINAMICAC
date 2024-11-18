@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718117210 source:c:\users\centeio\desktop\lp 1\codeblocks\finalproject11\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

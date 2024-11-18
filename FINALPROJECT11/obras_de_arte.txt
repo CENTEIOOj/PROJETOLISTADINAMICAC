@@ -1,0 +1,33 @@
+Título: pilitina cona‡a
+Artista: sou
+Tipo: outro
+Ano: 2023
+Preço: 234.00
+Dimensões (LxAxPxP): 3x2x3x4
+Localização: SOUE
+Estado: restauro
+Classificação: 5
+Notas: 
+------------------------------
+Título: kka
+Artista: ka
+Tipo: outro
+Ano: 2013
+Preço: 434.00
+Dimensões (LxAxPxP): 22x13x454x3
+Localização: soure
+Estado: restauro
+Classificação: 5
+Notas: 
+------------------------------
+Título: joao
+Artista: kaka
+Tipo: outro
+Ano: 2012
+Preço: 35.00
+Dimensões (LxAxPxP): 223x454x654
+Localização: soure
+Estado: restauro
+Classificação: 5
+Notas: 
+------------------------------
